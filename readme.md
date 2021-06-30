@@ -1,6 +1,6 @@
-# Joslim: Joint Widths and Weights Optimization for Slimmable Neural Networks [[PDF]](https://arxiv.org/pdf/2007.11752v3.pdf)
+# Joslim: Joint Widths and Weights Optimization for Slimmable Neural Networks [[PDF]](https://arxiv.org/pdf/2007.11752.pdf)
 
-This repository contains the code for our ECML-PKDD'21 paper [Joslim](https://arxiv.org/abs/2007.11752v3). This paper improves its previous [workshop versions](https://realworldml.github.io/files/cr/31_PareCO-realml-paper.pdf) in terms of presentation, understanding, and empirical results.
+This repository contains the code for our ECML-PKDD'21 paper [Joslim](https://arxiv.org/abs/2007.11752). This paper improves its previous [workshop versions](https://realworldml.github.io/files/cr/31_PareCO-realml-paper.pdf) in terms of presentation, understanding, and empirical results.
 
 Joslim is an approach to jointly optimize both the width configurations and the shared weights to minimize the area under FLOPs-vs.-loss trade-off curve.
 
